@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/mslug_fc/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/mslug_fc/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/mslug_fc/main/",
-	"version" : "1",
+	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5732,7 +5732,7 @@
 			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
 		},
 		"src/NES/tracking.js": {
-			"md5": "07e93809b73a4c8fac11882579733bfe"
+			"md5": "b0d3e1a7795a1607d2823cc8b15f3439"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "ddf95796444ad3e7c9299de2f15606fd"
