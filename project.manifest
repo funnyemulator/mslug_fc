@@ -5741,16 +5741,16 @@
 			"md5": "b5e54ca678dc4b43dafc0d95057029ac"
 		},
 		"src/NES/Game/GameLayer.js": {
-			"md5": "fb78999b971d639988e8fc213ec99e6b"
+			"md5": "d5b5d0ba78d32c97bcfb9fb784b4bb1a"
 		},
 		"src/NES/Game/GameLayerMAME.js": {
-			"md5": "45995a97a11d4ee6e49680f0b52e737e"
+			"md5": "daa2eb375f9c4bf2707f2da50705c482"
 		},
 		"src/NES/Game/GameLayerN64.js": {
-			"md5": "c3f763204fe39155b230df52cc145f5d"
+			"md5": "9a9318175eee4563c922319b3f745e67"
 		},
 		"src/NES/Game/GameLayerSNK.js": {
-			"md5": "178c40ce9715d775835e19547c56ad7e"
+			"md5": "9cdf5edc0e631c6ac5e975105afed9b6"
 		},
 		"src/NES/Game/Gamepad.js": {
 			"md5": "7852f68b3c3326092e4109b15e1e1f61"
@@ -5789,7 +5789,7 @@
 			"md5": "9d10f3acdb917404b848ec438c8b5d40"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "5635ed8a4c8cf73a2fe9536081b3faf6"
+			"md5": "bd470ebde72a666d6684ffe679717189"
 		},
 		"src/NES/Home/Promo/PromoLayer.js": {
 			"md5": "0b7e0e057dfb95b3f295171921c4dc73"
